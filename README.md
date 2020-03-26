@@ -1,7 +1,7 @@
 # APSC8280 Machine Learning Applied to Plant Science
 [Department of Agronomy and Plant Genetics, University of Minnesota] (https://agronomy.cfans.umn.edu/)
 
-Instructors:
+Instructors: <br>
 Dr. Rex Bernardo <br>
 Professor and Endowed Chair in Corn Breeding and Genetics <br>
 Office: 301 Hayes Hall <br>
