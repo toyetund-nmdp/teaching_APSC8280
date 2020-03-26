@@ -2,16 +2,16 @@
 [Department of Agronomy and Plant Genetics, University of Minnesota] (https://agronomy.cfans.umn.edu/)
 
 Instructors:
-Dr. Rex Bernardo
-Professor and Endowed Chair in Corn Breeding and Genetics
-Office: 301 Hayes Hall
-Phone: 5-6282
+Dr. Rex Bernardo <br>
+Professor and Endowed Chair in Corn Breeding and Genetics <br>
+Office: 301 Hayes Hall <br>
+Phone: 5-6282 <br>
 Email: bernardo@umn.edu
 
-Dr. Tolutola Oyetunde
-Postdoctoral Research Associate
-Office: 130 Borlaug Hall
-Cell: 314-814-2793
+Dr. Tolutola Oyetunde <br>
+Postdoctoral Research Associate <br>
+Office: 130 Borlaug Hall <br>
+Cell: 314-814-2793 <br>
 Email: oyetu003@umn.edu
 
 
