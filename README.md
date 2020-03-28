@@ -1,4 +1,4 @@
-# APSC8280 Machine Learning Applied to Plant Science
+# APSC 8280 Machine Learning Applied to Plant Science
 [Department of Agronomy and Plant Genetics, University of Minnesota] (https://agronomy.cfans.umn.edu/)
 
 Instructors: <br>
