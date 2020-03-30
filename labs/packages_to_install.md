@@ -1,3 +1,6 @@
+# List of packages used
+
+## 03/31/2020
 `install.packages(c('caret','doMC', 'glm','lm', 'AppliedPredictiveModeling',
                    'arules', 'C50' , 'coin' , 'CORElearn', 'corrplot', 'ctv', 'Cubist', 
                    'desirability', 'DMwR', 'doBy', 'DWD', 'e1071', 'earth', 'elasticnet',
