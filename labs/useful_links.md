@@ -9,6 +9,7 @@
     * Kaggle (https://www.kaggle.com/)
     * Syngenta crop challenge (https://www.ideaconnection.com/syngenta-crop-challenge/)
 3. Books
+    * Basic R programming (https://rstudio-education.github.io/hopr/)
     * R for data science (https://r4ds.had.co.nz/)
     
     
