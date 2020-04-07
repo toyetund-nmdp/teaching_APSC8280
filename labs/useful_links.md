@@ -11,5 +11,8 @@
 3. Books
     * Basic R programming (https://rstudio-education.github.io/hopr/)
     * R for data science (https://r4ds.had.co.nz/)
+  
+4. Students Lab 1
+    * https://github.com/gdiaspai/Lab1_APSC8280
     
     
