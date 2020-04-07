@@ -13,6 +13,6 @@
     * R for data science (https://r4ds.had.co.nz/)
   
 4. Students Lab 1
-    * https://github.com/gdiaspai/Lab1_APSC8280
+    *  [Gabriel] (https://github.com/gdiaspai/Lab1_APSC8280)
     
     
