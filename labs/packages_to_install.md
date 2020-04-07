@@ -8,3 +8,8 @@
                    'partykit', 'party', 'pls', 'plyr', 'pROC', 'proxy', 'QSARdata',
                    'randomForest', 'rms','sparseLDA', 'subselect', 'svmpath','tabplot',
                    'plotly','psych','rattle','corrr','lightgbm','RcppEigen','rJava','RWeka'))`
+
+
+## 04/07/2020
+`install.packages(c('GGally','ggthemes','xgboost',klaR, 'kernlab','recipes',
+                   'skimr','mlbench', 'MLmetrics'))`
