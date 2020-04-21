@@ -13,3 +13,7 @@
 ## 04/07/2020
 `install.packages(c('GGally','ggthemes','xgboost',klaR, 'kernlab','recipes',
                    'skimr','mlbench', 'MLmetrics'))`
+
+
+## 04/07/2020
+`install.packages(c('deepnet', 'extraTrees', 'keras', 'tensorflow', 'neuralnet', 'AmesHousing', 'visdat','rsample'))`
