@@ -15,5 +15,5 @@
                    'skimr','mlbench', 'MLmetrics'))`
 
 
-## 04/07/2020
+## 04/21/2020
 `install.packages(c('deepnet', 'extraTrees', 'keras', 'tensorflow', 'neuralnet', 'AmesHousing', 'visdat','rsample'))`
