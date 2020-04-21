@@ -11,7 +11,7 @@
 3. Books
     * Basic R programming (https://rstudio-education.github.io/hopr/)
     * R for data science (https://r4ds.had.co.nz/)
-    * [Machine learning cheatsheet](Machine Learning For Dummies Cheat Sheet.pdf)
+    * [Machine learning cheatsheet](Machine_Learning_For_Dummies_Cheat_Sheet.pdf)
     * Machine learning for dummies
     * Hands-on Machine Learning in R (https://bradleyboehmke.github.io/HOML/)
     * Machine learning with R (https://www.amazon.com/dp/B00G9581JM/ref=dp-kindle-redirect?_encoding=UTF8&btkr=1)
